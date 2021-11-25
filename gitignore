@@ -1,0 +1,8 @@
+coverage.out
+goreport_grade
+.idea/
+.vscode/
+/vendor
+/_venodr-*
+nohup.out
+.gitlab-ci.yml
